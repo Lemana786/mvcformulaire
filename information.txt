@@ -1,0 +1,29 @@
+-- Identifiants des comptes déjà existants --
+
+Pseudo : ADMIN
+Mot de passe : admin
+Role : admin
+
+Pseudo : Jean
+Mot de passe : coucou
+Role : Utilisateur
+
+Pseudo : Camille
+Mot de passe : France
+Role : Utilisateur
+
+Pseudo : Olivier
+Mot de passe : lemana
+Role : Utilisateur
+
+Pseudo : Roger
+Mot de passe : roger
+Role : Utilisateur
+
+Pseudo : Cécile
+Mot de passe : cecile
+Role : Utilisateur
+
+Pseudo : Alice
+Mot de passe : alice
+Role : Utilisateur
